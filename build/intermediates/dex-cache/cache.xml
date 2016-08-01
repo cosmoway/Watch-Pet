@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.2_1ed0878e4a4b950ddb1527b537cd2d65a7f40e33/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_52578149597fdfeaba3d21ecaba625eafb60ccce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_e84c00b6223d90eeefd3825290dd870593cd7e62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_57b18119c91c87586cd0d846ce1589cb8a7c9ac6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c1d8399dbc7b92a9ac297fde3791e5212d4ba28b">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c0369f78f946879a90459a866b7a4c3b3740362/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="198f86964d1fe34215742672a4e095f916f0f4d9">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.support-wearable-2.0.0-alpha1_2fd727e829c369877a9028d4ee580cc067c6fc68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b60b724feb0f1e7a691c49b62a197945d2f77f1">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_02ef760103b6b08e5b0e6fa373ce0077dad60de1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_1b58027e1d514bccec33524b83598737d927989e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.2_515039081ea1e2b7cc6cf64aa92b0811c8d7e1c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.2_95e53c09294da523d2a864637bf56a65d5700390/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.2_9b0ff211110d411bc77bab9b1416679295d28617/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/susaki/Watch_Pet_Senseor/wear/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.2_d9efe7d0bb1b98aa8ce20993cbbb80519d895fcd/classes.dex" />
+    </item>
+
+</items>
